@@ -1,3 +1,4 @@
+HEAD
 hello from console.
 I added this line after remove the remote repo.
 I added this line from v1
