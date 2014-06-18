@@ -1,1 +1,2 @@
 hello from console.
+I added this line after remove the remote repo.
